@@ -32,7 +32,7 @@ h1 {
   .card div {
     padding: 9rem 2rem;
     color: #fff;
-    margin-top: 12rem; }
+/*     margin-top: 12rem;*/ } 
     .card div h1 {
       font: 900 70px "Aria Helvetica sans-serif";
       margin: auto; }
@@ -50,7 +50,7 @@ h1 {
 @media (max-width: 570px) {
   .card {
     div {
-      margin-top: -10rem;
+       padding: 1rem 0;
     }
   }
 }
