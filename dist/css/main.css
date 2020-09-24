@@ -30,6 +30,6 @@ h1 {
     padding: 0 2rem;
     color: #fff; }
     .card div h1 {
-      font: 900 70px "Aria Helvetica sans-serif"; }
+      font: 900 70px "Aria Helvetica sans-serif"; margin: auto; }
     .card div p {
       font-size: 20px; }
