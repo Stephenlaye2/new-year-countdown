@@ -31,7 +31,8 @@ h1 {
   background: rgba(167, 63, 167, 0.178); }
   .card div {
     padding: 9rem 2rem;
-    color: #fff; }
+    color: #fff;
+    margin-top: 12rem; }
     .card div h1 {
       font: 900 70px "Aria Helvetica sans-serif";
       margin: auto; }
@@ -44,7 +45,7 @@ h1 {
   .card {
     margin: 3rem auto; }
     .card div {
-      padding-top: 2rem; } }
+      margin-top: 10rem; } }
 
 @media (max-width: 560px) {
   h1 {
