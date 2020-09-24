@@ -48,7 +48,7 @@ h1 {
 
 @media (max-width: 570px) {
   .card div {
-    padding: 1rem 0; } }
+    padding: 1rem; } }
 
 @media (max-width: 560px) {
   h1 {
