@@ -40,7 +40,7 @@ h1 {
   div {
     padding: 9rem 2rem;
     color: #fff;
-    margin-top: 12rem;
+  
 
     h1 {
       font: 900 70px "Aria Helvetica sans-serif";
@@ -59,7 +59,14 @@ h1 {
   .card {
     margin: 3rem auto;
     div {
-      margin-top: 10rem;
+      padding-top: 10rem;
+    }
+  }
+}
+@media (max-width: 570px) {
+  .card {
+    div {
+      padding: 1rem 0;
     }
   }
 }
